@@ -1,0 +1,6 @@
+numeros = [[2,3,4,5],[11,12,13,14],[15,16,17,18]]   
+mostrarImpares xs = filter odd xs
+{- 
+   map mostrarImpares numeros
+   
+-}
